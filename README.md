@@ -25,3 +25,7 @@ streamlit
 tavily-python
 faiss-cpu
 python-dotenv
+
+##  Run UI
+
+streamlit run streamlit_ui.py
